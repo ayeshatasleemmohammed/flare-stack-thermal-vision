@@ -78,8 +78,9 @@ flare-stack-thermal-vision/
 ├── LICENSE                          # MIT License
 ├── README.md                        # Documentation
 └── requirements.txt                 # Dependencies
-
+---
 ##  Author
-
-**[Mohammed Ayesha Tasleem]**
+    Mohammed Ayesha Tasleem
+    Department of Chemical Engineering
+    National Institute of Technology, Warangal
  
