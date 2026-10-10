@@ -1,10 +1,5 @@
 # 🏭 Industrial Flare Stack Thermal Vision Analyzer
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green?logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-Array%20Ops-013243?logo=numpy&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-
 Hey there! 👋 Welcome to my computer vision project. 
 
 In refineries and chemical plants, flare stacks burn off dangerous waste gases. If a flame goes out (**a flameout event**) or burns too weakly, unburnt toxic gases escape into the atmosphere. 
@@ -83,3 +78,8 @@ flare-stack-thermal-vision/
 ├── LICENSE                          # MIT License
 ├── README.md                        # Documentation
 └── requirements.txt                 # Dependencies
+
+Author 
+Mohammed Ayesha Tasleem
+Department of Chemical Engineering
+National Institute of Technology, Warangal
