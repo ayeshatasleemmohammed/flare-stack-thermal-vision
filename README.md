@@ -79,7 +79,7 @@ flare-stack-thermal-vision/
 ├── README.md                        # Documentation
 └── requirements.txt                 # Dependencies
 
-Author 
+##Author 
 Mohammed Ayesha Tasleem
 Department of Chemical Engineering
 National Institute of Technology, Warangal
